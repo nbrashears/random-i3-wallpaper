@@ -9,3 +9,4 @@ bindsym $mod+Shift+b exec ~/.config/i3/randomWallpaper.sh
 ```bash
 sudo chmod +x ~/.config/i3/randomWallpaper.sh
 ```
+- Now you'll have a random background on startup if all goes well. You can also use $mod+b to change your background on the fly
